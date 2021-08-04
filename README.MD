@@ -1,0 +1,1 @@
+PingCAP is a thriving company that develops TiDB, an open source distributed Hybrid Transactional/Analytical Processing (HTAP) database.
