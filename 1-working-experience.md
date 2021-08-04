@@ -20,3 +20,6 @@
 
 ### PingCAP 家属视角
 * [MinTalk | PingCAP新晋家属小记](https://mp.weixin.qq.com/s/1_JPru0-qVawKiTOl1wYfw)
+
+### 最具吸引力雇主品牌
+* [成为开发者喜爱的科技企业 PingCAP 上榜中国技术力量之“最具吸引力雇主品牌”](https://segmentfault.com/a/1190000039926881?sort=newest)
