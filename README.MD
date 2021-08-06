@@ -13,7 +13,7 @@
 
 - 在过去的六年，TiDB 受到了无数关注和鼓励，在大家的帮助下我们从一个嗷嗷待哺的婴儿，一步步慢慢成长成一个充满活力的少年。**在这 2100 多个日夜的背后是无数贡献者的精心呵护，正是你们的每一个 PR 、每一则回复、每一次鼓励铸造了 TiDB 的今天，特别感谢每一位开发者的贡献，相信随着开放和透明的协作必定会创造出全新的无限可能，让我们一起把 TiDB 打造成一栈式服务生态。我们一起在路上！**
 
-- [PingCAP 2020 年度报告](https://max.book118.com/html/2021/0203/7064160121003052.shtm)
+- [PingCAP 2020 年度报告](https://mp.weixin.qq.com/s/rZycxnMSEHzI5rOLSlaSfQ)
 - [TiDB 年度报告 | 站在 2019 的边界，我们回了回头](https://mp.weixin.qq.com/s/dCml4FdwWJ8AHvq37iCyKQ)
 - [TiDB in 2018：奔跑，成长，在路上](https://mp.weixin.qq.com/s/9lKOaX5LxbKhXx9NqTQuLA)
 
