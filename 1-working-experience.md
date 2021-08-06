@@ -16,6 +16,7 @@
 * [写在入职技术型创业公司 PingCAP 一个月之后](https://zhuanlan.zhihu.com/p/29280709)
 * [揭秘 Technical Writer 的工作环境 | 加入 PingCAP 五个月的员工体验记](https://zhuanlan.zhihu.com/p/32683069)
 * [PiPa君 Story ~ 小猎转型 HR 的心路历程](https://zhuanlan.zhihu.com/p/31581254)
+* [硬核实习！第一天就远程办公，我都学到了什么](https://mp.weixin.qq.com/s/SutIP0saCpt9tXwaLhFpFw)
 
 
 ### PingCAP 家属视角
