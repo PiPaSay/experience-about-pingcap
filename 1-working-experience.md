@@ -19,6 +19,8 @@
 
 ### 非研发岗 
 
+* [一名新 PingCAPer 的心路历程](https://zhuanlan.zhihu.com/p/380203050?utm_source=wechat_session&utm_medium=social&utm_oi=760840076094607360)
+
 * [写在入职技术型创业公司 PingCAP 一个月之后](https://zhuanlan.zhihu.com/p/29280709)
 
 * [揭秘 Technical Writer 的工作环境 | 加入 PingCAP 五个月的员工体验记](https://zhuanlan.zhihu.com/p/32683069)
