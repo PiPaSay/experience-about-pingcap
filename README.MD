@@ -1,4 +1,4 @@
-![pingcap](image/pingcap.jpg)
+![pingcap](image/open.jpeg)
 ### 背景说明
 
 - 帮助对 PingCAP 好奇和感兴趣的伙伴，多一些 PingCAP 的 Experience！
